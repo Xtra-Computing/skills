@@ -12,4 +12,6 @@ git clone https://github.com/Xtra-Computing/skills.git .cursor/skills/xtra-compu
 
 2. **Done.** You can use cursor to evaluate the skills by typing `/`
 
+3. **Note: please using powerful LLMs!** (e.g. `Claude Sonnet`, `Claude Opus`, `Kimi K2.5`, etc.)
+
 ![cursor](docs/cursor.png)
